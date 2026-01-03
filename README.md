@@ -42,9 +42,14 @@ The dataset contains Spotify track information including:
 4. Execute the queries to view insights
 
 ---
+## Project Walkthrough
+YouTube Video:
+https://www.youtube.com/watch?v=nHjIsKZ79-M&t=4028s
 
+---
 ## Learning Outcomes
 - Hands-on experience with real-world datasets
 - Improved SQL query writing and optimization
 - Practical understanding of analytical SQL
+
 
